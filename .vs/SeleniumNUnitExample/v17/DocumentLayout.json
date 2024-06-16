@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF609371-BA85-47A9-BA5A-5DE4F81852C1}|SeleniumNUnitExample\\SeleniumNUnitExample.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\googlesearchtest\\googlesearchtest\\seleniumnunitexample\\tests\\pageobject\\googleresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF609371-BA85-47A9-BA5A-5DE4F81852C1}|SeleniumNUnitExample\\SeleniumNUnitExample.csproj|solutionrelative:seleniumnunitexample\\tests\\pageobject\\googleresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF609371-BA85-47A9-BA5A-5DE4F81852C1}|SeleniumNUnitExample\\SeleniumNUnitExample.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\googlesearchtest\\googlesearchtest\\seleniumnunitexample\\tests\\pageobject\\googlehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF609371-BA85-47A9-BA5A-5DE4F81852C1}|SeleniumNUnitExample\\SeleniumNUnitExample.csproj|solutionrelative:seleniumnunitexample\\tests\\pageobject\\googlehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF609371-BA85-47A9-BA5A-5DE4F81852C1}|SeleniumNUnitExample\\SeleniumNUnitExample.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\googlesearchtest\\googlesearchtest\\seleniumnunitexample\\tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF609371-BA85-47A9-BA5A-5DE4F81852C1}|SeleniumNUnitExample\\SeleniumNUnitExample.csproj|solutionrelative:seleniumnunitexample\\tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleResultsPage.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\Tests\\PageObject\\GoogleResultsPage.cs",
+              "RelativeDocumentMoniker": "SeleniumNUnitExample\\Tests\\PageObject\\GoogleResultsPage.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\Tests\\PageObject\\GoogleResultsPage.cs",
+              "RelativeToolTip": "SeleniumNUnitExample\\Tests\\PageObject\\GoogleResultsPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:22:16.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleHomePage.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\Tests\\PageObject\\GoogleHomePage.cs",
+              "RelativeDocumentMoniker": "SeleniumNUnitExample\\Tests\\PageObject\\GoogleHomePage.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\Tests\\PageObject\\GoogleHomePage.cs",
+              "RelativeToolTip": "SeleniumNUnitExample\\Tests\\PageObject\\GoogleHomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:47:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\Tests\\UnitTest.cs",
+              "RelativeDocumentMoniker": "SeleniumNUnitExample\\Tests\\UnitTest.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA\\\u05DE\u05D9\u05E8\u05D9 \u05E7\u05E8\u05DC\u05E0\u05E9\u05D8\u05D9\u05D9\u05DF\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\Tests\\UnitTest.cs",
+              "RelativeToolTip": "SeleniumNUnitExample\\Tests\\UnitTest.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:34:55.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

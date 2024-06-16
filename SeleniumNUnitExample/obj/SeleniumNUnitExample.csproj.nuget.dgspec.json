@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\SeleninumProject\\SeleniumNUnitExample\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj": {}
+    "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\מירי קרלנשטיין\\פיתוח אוטומציה\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\SeleninumProject\\SeleniumNUnitExample\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj": {
+    "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\מירי קרלנשטיין\\פיתוח אוטומציה\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\SeleninumProject\\SeleniumNUnitExample\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj",
+        "projectUniqueName": "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\מירי קרלנשטיין\\פיתוח אוטומציה\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj",
         "projectName": "SeleniumNUnitExample",
-        "projectPath": "C:\\Users\\user\\Documents\\SeleninumProject\\SeleniumNUnitExample\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\SeleninumProject\\SeleniumNUnitExample\\SeleniumNUnitExample\\obj\\",
+        "projectPath": "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\מירי קרלנשטיין\\פיתוח אוטומציה\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj",
+        "packagesPath": "C:\\Users\\shufra\\.nuget\\packages\\",
+        "outputPath": "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\מירי קרלנשטיין\\פיתוח אוטומציה\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shufra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,12 +39,25 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.3.2, )"
@@ -63,7 +76,11 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[126.0.6478.6100, )"
+              "version": "[126.0.6478.2600-beta, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -88,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }
