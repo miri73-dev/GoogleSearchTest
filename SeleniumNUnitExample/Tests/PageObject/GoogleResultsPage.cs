@@ -23,10 +23,17 @@ namespace SeleniumNUnitExample.Tests.PageObject
         }
 
         public bool ResultsDisplayed() {
+            IWebElement resultsPanel = driver.FindElement(By.Id("search"));
+
             wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible((By.XPath(".//a"))));
             searchResults = resultsPanel.FindElements(By.XPath(".//a"));
-        }
+            return searchResults.Count() > 0;
+        }  
         
-
+        public void clickOnFirst()
+        {
+            IWebElement firstResult = searchResults[0].FindElement(By.CssSelector("h3"));
+            firstResult.Click();
+        }
     }
 }
