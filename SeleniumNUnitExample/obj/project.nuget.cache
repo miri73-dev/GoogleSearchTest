@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CPaAEIKnvYe8xsVvJ9FdKXiDJn5b2RvH8nHh2l+AMaYa5jJe0g7Bs+VLCNdEIuaPmOARp8J79NEJeb3f+qfIig==",
+  "dgSpecHash": "gzAUN/ApqbAnFJcUIrJrqq0asjIiW9R2A7ztTH0a80dd1YdxbSHZel8MvjhAWW5JpM1A8DVwTpdcALLa+L2EpA==",
   "success": true,
   "projectFilePath": "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\מירי קרלנשטיין\\פיתוח אוטומציה\\GoogleSearchTest\\GoogleSearchTest\\SeleniumNUnitExample\\SeleniumNUnitExample.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,10 @@
     "C:\\Users\\shufra\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
     "C:\\Users\\shufra\\.nuget\\packages\\selenium.webdriver.chromedriver\\126.0.6478.2600-beta\\selenium.webdriver.chromedriver.126.0.6478.2600-beta.nupkg.sha512",
     "C:\\Users\\shufra\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
-    "C:\\Users\\shufra\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\shufra\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }
